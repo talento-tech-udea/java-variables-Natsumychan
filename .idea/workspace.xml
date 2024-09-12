@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc1adc8-ee4e-4fc3-887c-ce9e0effb93d" name="Changes" comment="" />
+    <list default="true" id="abc1adc8-ee4e-4fc3-887c-ce9e0effb93d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PerimeterCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PerimeterCalculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,12 +37,20 @@
     "JUnit.All in java (1).executor": "Run",
     "JUnit.All in java (2).executor": "Run",
     "JUnit.All in java.executor": "Run",
+    "JUnit.PerimeterCalculatorTest.calculatePerimeterTest.executor": "Run",
     "JUnit.PerimeterCalculatorTest.executor": "Run",
+    "JUnit.PerimeterCalculatorTest.totalPointsTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/manueljurado/talento-tech/java-variables"
+    "last_opened_file_path": "/Users/manueljurado/talento-tech/java-variables",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -47,7 +58,7 @@
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PerimeterCalculatorTest">
+  <component name="RunManager" selected="JUnit.PerimeterCalculatorTest.calculatePerimeterTest">
     <configuration name="All in java (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-programming" />
       <option name="PACKAGE_NAME" value="" />
@@ -64,14 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-programming" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PerimeterCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-programming" />
       <option name="PACKAGE_NAME" value="" />
@@ -81,25 +84,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="PerimeterCalculatorTest.calculatePerimeterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-programming" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PerimeterCalculatorTest" />
+      <option name="METHOD_NAME" value="calculatePerimeterTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="PerimeterCalculatorTest.totalPointsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-programming" />
-      <option name="filePath" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PerimeterCalculatorTest" />
+      <option name="METHOD_NAME" value="totalPointsTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PerimeterCalculatorTest.calculatePerimeterTest" />
+        <item itemvalue="JUnit.PerimeterCalculatorTest.totalPointsTest" />
         <item itemvalue="JUnit.PerimeterCalculatorTest" />
         <item itemvalue="JUnit.All in java (2)" />
         <item itemvalue="JUnit.All in java (1)" />
-        <item itemvalue="JUnit.All in java" />
       </list>
     </recent_temporary>
   </component>
